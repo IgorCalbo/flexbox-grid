@@ -1,3 +1,5 @@
+Disponível para visualização no link: https://igorcalbo.github.io/flexbox-grid/
+
 # Guia de estilos
 
 Toda a estilização que será usada no projeto dentro do figma.
